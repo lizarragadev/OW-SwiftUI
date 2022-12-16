@@ -11,6 +11,7 @@
 		6D122C0A294BEDC600B872D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D122C09294BEDC600B872D6 /* ContentView.swift */; };
 		6D122C0C294BEDCE00B872D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D122C0B294BEDCE00B872D6 /* Assets.xcassets */; };
 		6D122C0F294BEDCE00B872D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D122C0E294BEDCE00B872D6 /* Preview Assets.xcassets */; };
+		6D122C16294BF90300B872D6 /* DetailContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D122C15294BF90200B872D6 /* DetailContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6D122C09294BEDC600B872D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6D122C0B294BEDCE00B872D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D122C0E294BEDCE00B872D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6D122C15294BF90200B872D6 /* DetailContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6D122C07294BEDC600B872D6 /* SwiftUIOpenWebinarsApp.swift */,
 				6D122C09294BEDC600B872D6 /* ContentView.swift */,
+				6D122C15294BF90200B872D6 /* DetailContentView.swift */,
 				6D122C0B294BEDCE00B872D6 /* Assets.xcassets */,
 				6D122C0D294BEDCE00B872D6 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				6D122C0A294BEDC600B872D6 /* ContentView.swift in Sources */,
 				6D122C08294BEDC600B872D6 /* SwiftUIOpenWebinarsApp.swift in Sources */,
+				6D122C16294BF90300B872D6 /* DetailContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
